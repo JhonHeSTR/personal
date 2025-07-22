@@ -139,23 +139,27 @@
       "text": "Padre nuestro que estás en el cielo, santificado sea tu Nombre; venga a nosotros tu Reino; hágase tu voluntad en la tierra como en el cielo. Danos hoy nuestro pan de cada día; perdona nuestras ofensas como también nosotros perdonamos a los que nos ofenden; no nos dejes caer en la tentación, y líbranos del mal. Amén."
     },
     "fifth": {
+      "title": "",
+      "text": "María, Madre de gracia, Madre de misericordia, defiéndenos de nuestros enemigos y ampáranos ahora y en la hora de nuestra muerte. Amén."
+    },
+    "sixth": {
       "title": "Ave María",
       "text": "Dios te salve, María; llena eres de gracia, el Señor es contigo; bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros pecadores, ahora y en la hora de nuestra muerte. Amén."
     },
-    "sixth": {
+    "seventh": {
       "title": "",
       "text": "Gloria al Padre, y al Hijo, y al Espíritu Santo. Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén."
     },
-    "seventh": {
+    "eighth": {
       "title": "",
       "text": "Maria Madre de gracia, Madre de piedad, amor y misericordia, defiéndenos de nuestros enemigos y ampáranos ahora y en la hora de nuestra muerte. Amén."
     },
-    "eighth": {
+    "ninth": {
       "title": "",
       "text": "¡Oh! Jesús mío, perdona nuestros pecados, líbranos del fuego del infierno, lleva al cielo a todas las almas, especialmente a las más necesitadas de tu misericordia."
     },
-    "ninth": {
-      "title": "Santa Cruz",
+    "tenth": {
+      "title": "Oración a la Santa Cruz",
       "text": "Dios todopoderoso, que habeís sufrido la muerte en el árbol particular por todos nuestros pecados, ven con nosotros Santa Cruz de Jesucristo, tened piedad de nosotros. Santa Cruz de Jesucristo, aparta de nosotros toda arma cortante. Santa Cruz de Jesucristo, vierte sobre nosotros todo bien. Santa Cruz de Jesucristo, aparta de nosotros todo mal. Santa Cruz de Jesucristo, procúranos salud. Santa Cruz de Jesucristo, aparta de nosotros toda arma cortante. Santa Cruz de Jesucristo, guárdanos de accidentes corporales y temporales y que todos adoremos a la Santa Cruz de Jesucristo para siempre. Jesucristo de Nazareth crucificado, tened piedad de nosotros por los siglos de los siglos. Haced que el invencible espíritu maligno se aparte de nosotros. Amén."
     }
   },
